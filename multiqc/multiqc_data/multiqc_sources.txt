@@ -1,0 +1,7 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR5836475_1	/content/fastqc/SRR5836475_1_fastqc.zip
+FastQC	all_sections	SRR5836473_1	/content/fastqc/SRR5836473_1_fastqc.zip
+FastQC	all_sections	SRR3824222_2	/content/fastqc/SRR3824222_2_fastqc.zip
+FastQC	all_sections	SRR5836473_2	/content/fastqc/SRR5836473_2_fastqc.zip
+FastQC	all_sections	SRR5836475_2	/content/fastqc/SRR5836475_2_fastqc.zip
+FastQC	all_sections	SRR3824222_1	/content/fastqc/SRR3824222_1_fastqc.zip
